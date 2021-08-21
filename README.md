@@ -1,6 +1,6 @@
-# firebase_blog
+# Random Password Generator
 
-A new Flutter project.
+This is a random password generator made by flutter - dart and some packages. 
 
 ## Getting Started
 
